@@ -1,4 +1,6 @@
-# upcoming-movies-ios
+# Upcoming Movies iOS
+
+**Please keep in mind this repository is just a pet project I made 2 years ago over a weekend. I wasn't very comfortable with Objective-C at the time, and I haven't been updating it since then.**
 
 Upcoming Movies is an iOS app that keeps you up to date on the latest movies opening this week.
 Features include:
